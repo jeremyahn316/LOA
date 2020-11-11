@@ -1,0 +1,12 @@
+#* java -ea loa.Main
+# Test to see toggle between manual and auto
+manual white
+e1-e3
+a4-c4
+auto black
+a7-c7
+manual black
+auto white
+b1-b3
+auto black
+#*move/win+

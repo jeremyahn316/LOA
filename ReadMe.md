@@ -6,12 +6,7 @@ CONTENTS:
 ReadMe			This file.
 	
 Makefile		A makefile that will compile your
-			files and run tests.  You must turn in a Makefile,
-			'make' must compile all your files, and 
-			'make check' must perform all your tests.  
-			Currently, this makefile is set up to do just 
-			that with our skeleton files.  Be sure to keep 
-			it up to date.
+			files and run tests. 
 
 loa/			Directory containing the Lines of Action package.
 
